@@ -106,7 +106,6 @@
     "yargs": "^2.1.1"
   },
   "peerDependencies": {
-    "materialize-css": "^0.98.0",
     "app-decorators":"0.8.221"
   },
   "aurelia": {
